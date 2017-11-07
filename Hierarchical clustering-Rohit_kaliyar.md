@@ -1,6 +1,6 @@
-# Awesome Deep Learning Resources
+# Hierarchical Clustering
 
-One Paragraph of project description goes here
+In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters.
 
 ## Getting Started
 
