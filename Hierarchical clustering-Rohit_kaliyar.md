@@ -1,4 +1,4 @@
-# Project Title
+# Awesome Deep Learning Resources
 
 One Paragraph of project description goes here
 
