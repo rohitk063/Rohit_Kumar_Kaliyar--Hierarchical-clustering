@@ -4,7 +4,7 @@ In data mining and statistics, hierarchical clustering (also called hierarchical
 * [rohit paper](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=graph+databases+a+survey+by+rohit&oq=graph+databases+) - The web framework used
 - [Abstract](#abstract)
 - [Introduction](#introduction)
-- [History/evolution of the approach with related work](#evolution of the approach with related work)
+- [Evolution of the approach with related work](#evolution of the approach with related work)
 - [Algorithm with mathematical notations and diagrams](#algorithm with mathematical notations and diagrams)
 - [Example problem with the solution](#example problem with the solution)
   - [Librairies and Implementations](#librairies-and-implementations)
