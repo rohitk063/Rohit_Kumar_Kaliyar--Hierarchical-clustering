@@ -2,6 +2,25 @@
 
 In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters.
 * [rohit paper](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=graph+databases+a+survey+by+rohit&oq=graph+databases+) - The web framework used
+- [Trends](#trends)
+- [Online classes](#online-classes)
+- [Books](#books)
+- [Posts and Articles](#posts-and-articles)
+- [Practical resources](#practical-resources)
+  - [Librairies and Implementations](#librairies-and-implementations)
+  - [Some Datasets](#some-datasets)
+- [Other Math Theory](#other-math-theory)
+  - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
+  - [Complex Numbers & Digital Signal Processing](#complex-numbers-and-digital-signal-processing)
+- [Papers](#papers)
+  - [Recurrent Neural Networks](#recurrent-neural-networks)
+  - [Convolutional Neural Networks](#convolutional-neural-networks)
+- [YouTube and Videos](#youtube)
+- [Misc. Hubs and Links](#misc-hubs-and-links)
+- [License](#license)
+
+<a name="trends" />
+
 ## Abstract
 
 ## Introduction
