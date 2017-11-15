@@ -3,21 +3,19 @@
 In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters.
 * [rohit paper](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=graph+databases+a+survey+by+rohit&oq=graph+databases+) - The web framework used
 - [Abstract](#abstract)
-- [Online classes](#online-classes)
-- [Books](#books)
-- [Posts and Articles](#posts-and-articles)
-- [Practical resources](#practical-resources)
+- [Introduction](#introduction)
+- [History/evolution of the approach with related work](#evolution of the approach with related work)
+- [Algorithm with mathematical notations and diagrams](#algorithm with mathematical notations and diagrams)
+- [Example problem with the solution](#example problem with the solution)
   - [Librairies and Implementations](#librairies-and-implementations)
-  - [Some Datasets](#some-datasets)
-- [Other Math Theory](#other-math-theory)
+- [Applications](#applications)
   - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
-  - [Complex Numbers & Digital Signal Processing](#complex-numbers-and-digital-signal-processing)
-- [Papers](#papers)
+- [Discussion](#discussion)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
-- [YouTube and Videos](#youtube)
-- [Misc. Hubs and Links](#misc-hubs-and-links)
-- [License](#license)
+- [Landmark research papers in the topic](#landmark)
+- [Resources such as book, code, relevant softwares, libraries, other tutorials,links to video lectures etc](#resources)
+- [References](#references)
 
 <a name="trends" />
 
