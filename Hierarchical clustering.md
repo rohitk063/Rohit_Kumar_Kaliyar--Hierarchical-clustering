@@ -61,20 +61,7 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 - [ A survey of recent advances in hierarchical clustering algorithms](https://academic.oup.com/comjnl/article/26/4/354/377434)Murtagh, Fionn. "A survey of recent advances in hierarchical clustering algorithms." The Computer Journal 26.4 (1983): 354-359.
 
 ## Resources
-### Softwares
 
-[[File:Iris dendrogram.png|thumb|Hierarchical clustering [[dendrogram]] of the [[Iris flower data set|Iris dataset]] (using [[R (programming language)|R]]). [https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html Source] ]]
-
-[[File:Orange-data-mining-hierarchical-clustering.png|thumb|Hierarchical clustering and interactive dendrogram visualization in [[Orange (software)|Orange data mining suite]].]]
-
-* [http://bonsai.hgc.jp/~mdehoon/software/cluster/ Cluster 3.0] provides a [[Graphical User Interface]] to access to different clustering routines and is available for Windows, Mac OS X, Linux, Unix.
-* [[ELKI]] includes multiple hierarchical clustering algorithms, various linkage strategies and also includes the efficient SLINK,<ref name="SLINK" /> CLINK<ref name="CLINK" /> and Anderberg algorithms, flexible cluster extraction from dendrograms and various other [[cluster analysis]] algorithms.
-* [[GNU Octave|Octave]], the [[GNU]] analog to [[MATLAB]] implements hierarchical clustering in [http://octave.sourceforge.net/statistics/function/linkage.html linkage function]
-* [[Orange (software)|Orange]], a data mining software suite, includes [https://docs.orange.biolab.si/3/visual-programming/widgets/unsupervised/hierarchicalclustering.html hierarchical clustering] with interactive dendrogram visualisation.
-* [[R (programming language)|R]] has several functions for hierarchical clustering: see [https://cran.r-project.org/web/views/Cluster.html CRAN Task View: Cluster Analysis & Finite Mixture Models] for more information.
-* [[SCaViS]] computing environment in Java that implements this algorithm.
-* [[scikit-learn]] implements a hierarchical clustering in Python.
-* [Weka (machine learning)|Weka] includes hierarchical cluster analysis.
 ### Books
 
 - [Hierarchical clustering - Stanford NLP Group](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - This chapter first introduces agglomerative hierarchical clustering (Section 17.1) ... erences to soft hierarchical clustering.
@@ -87,6 +74,20 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 - [Agglomerative hierarchical cluster tree](http://in.mathworks.com/help/stats/linkage.html) - This MATLAB function returns a matrix Z that encodes a tree of hierarchical clusters of the rows of the real matrix X...
 - [SciPy Hierarchical Clustering and Dendrogram Tutorial](https://joernhees.de/blog/2015/.../scipy-hierarchical-clustering-and-dendrogram-tutori...) - This is a tutorial on how to use scipy's hierarchical clustering. ... X samples (n x m array), aka data points or "singleton clusters"; n number of ...... This entry was posted in Coding and tagged clustering, code, dendrogram...
 - [Hierarchical Clustering Python Implementation - GitHub](https://github.com/ZwEin27/Hierarchical-Clustering) -Hierarchical Clustering Python Implementation. ... For example, to produce two clusters, the algorithm can simply return the last two clusters that were merged ...
+### Softwares
+
+[File:Iris dendrogram.png|thumb|Hierarchical clustering [dendrogram]] of the [Iris flower data set|Iris dataset] (using [R (programming language)|R]). [https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html Source]
+
+[File:Orange-data-mining-hierarchical-clustering.png|thumb|Hierarchical clustering and interactive dendrogram visualization in [Orange (software)|Orange data mining suite]
+
+* [http://bonsai.hgc.jp/~mdehoon/software/cluster/ Cluster 3.0] provides a [Graphical User Interface] to access to different clustering routines and is available for Windows, Mac OS X, Linux, Unix.
+* [ELKI] includes multiple hierarchical clustering algorithms, various linkage strategies and also includes the efficient SLINK,<ref name="SLINK" /> CLINK<ref name="CLINK" /> and Anderberg algorithms, flexible cluster extraction from dendrograms and various other [[cluster analysis] algorithms.
+* [GNU Octave|Octave], the [GNU] analog to [MATLAB] implements hierarchical clustering in [http://octave.sourceforge.net/statistics/function/linkage.html linkage function]
+* [Orange (software)|Orange], a data mining software suite, includes [https://docs.orange.biolab.si/3/visual-programming/widgets/unsupervised/hierarchicalclustering.html hierarchical clustering] with interactive dendrogram visualisation.
+* [R (programming language)|R] has several functions for hierarchical clustering: see [https://cran.r-project.org/web/views/Cluster.html CRAN Task View: Cluster Analysis & Finite Mixture Models] for more information.
+* [SCaViS] computing environment in Java that implements this algorithm.
+* [scikit-learn] implements a hierarchical clustering in Python.
+* [Weka (machine learning)|Weka] includes hierarchical cluster analysis.
 ## References
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Abstract Techniques for partitioning objects into optimally homogeneous groups on the basis of empirical measures.
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
