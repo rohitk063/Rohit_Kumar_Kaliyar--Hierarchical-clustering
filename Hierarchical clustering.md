@@ -172,8 +172,8 @@ The initial cluster distances in Ward's minimum variance method are therefore de
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
 - [Chameleon: Hierarchical clustering using dynamic modeling](http://ieeexplore.ieee.org/abstract/document/781637/). Chameleon: Hierarchical clustering using dynamic modeling. Computer, 32(8), 68-75.
 - [ A comparison of document clustering techniques](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) Steinbach, Michael, George Karypis, and Vipin Kumar. "A comparison of document clustering techniques." KDD workshop on text mining. Vol. 400. No. 1. 2000.
-- [ A universal density profile from hierarchical clustering](iopscience.iop.org/article/10.1086/304888/meta)Navarro, Julio F., Carlos S. Frenk, and Simon DM White. "A universal density profile from hierarchical clustering." The Astrophysical Journal 490.2 (1997): 493.
-- [ A survey of recent advances in hierarchical clustering algorithms](https://academic.oup.com/comjnl/article/26/4/354/377434)Murtagh, Fionn. "A survey of recent advances in hierarchical clustering algorithms." The Computer Journal 26.4 (1983): 354-359.
+- [ A universal density profile from hierarchical clustering](iopscience.iop.org/article/10.1086/304888/meta)-Navarro, Julio F., Carlos S. Frenk, and Simon DM White. "A universal density profile from hierarchical clustering." The Astrophysical Journal 490.2 (1997): 493.
+- [ A survey of recent advances in hierarchical clustering algorithms](https://academic.oup.com/comjnl/article/26/4/354/377434)-Murtagh, Fionn. "A survey of recent advances in hierarchical clustering algorithms." The Computer Journal 26.4 (1983): 354-359.
 - Hierarchical Clustering by Songül Albayrak (Yıldız Technical University).
 - Data Mining: Concepts and Techniques by Jiawei Han, Micheline Kamber, and Jian Pei
 - Clustering by Kamal Nigam (http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html)
