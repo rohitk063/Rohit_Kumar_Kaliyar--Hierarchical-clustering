@@ -30,7 +30,7 @@ Clustering is a division of information or data into gatherings of groups  of  s
 
 Clustering  is the current active subject of dynamic research in a few fields, for example, measurements, pattern   recognition, and also in the field of machine learning. This study concentrates on bunching in data mining.  Data mining adds to grouping the entanglements of large datasets with a lot of traits of various sorts. This forces one of a kind computational prerequisites on relevant clustering algorithms. An assortment of calculations have as of recently developed now that meet these basic important things and were effectively connected to genuine data mining issues. They are subject of the review.
 
-## History/evolution of the approach with related work
+## Eevolution of the approach with related work
 
 ## Algorithm with mathematical notations and diagrams
 
