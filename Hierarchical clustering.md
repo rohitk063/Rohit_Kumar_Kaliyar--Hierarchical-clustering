@@ -1,6 +1,6 @@
 # Hierarchical Clustering
 
-In data mining and statistics, hierarchical clustering (likewise called various leveled bunch investigation or HCA) is a technique for cluster analysis which tries to fabricate a chain of hierarchy of clusters.
+In data mining and statistics, hierarchical clustering (likewise called various leveled cluster investigation or HCA) is a technique for cluster analysis which tries to fabricate a chain of hierarchy of clusters.
 ## Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
