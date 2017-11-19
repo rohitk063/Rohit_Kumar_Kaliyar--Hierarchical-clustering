@@ -117,7 +117,7 @@ The initial cluster distances in Ward's minimum variance method are therefore de
 - [Python Math: Calculate clusters using Hierarchical Clustering method](https://www.w3resource.com/python-exercises/math/python-math-exercise-75.php) - a Python program to calculate clusters using Hierarchical Clustering method
 
 ## Applications
-- [Biology](https://en.wikipedia.org/wiki/Biolog) - taxonomy of living things: kingdom, phylum, class, order, family, genus and species
+- [Biology](https://en.wikipedia.org/wiki/Biology) - taxonomy of living things: kingdom, phylum, class, order, family, genus and species
 - [Information retrieval](https://en.wikipedia.org/wiki/Information_retrieval) - document clustering
 - [Land use](https://en.wikipedia.org/wiki/Land_use) - Identification of areas of similar land use in an earth observation database.
 - [Marketing](https://en.wikipedia.org/wiki/Marketing) -Help marketers discover distinct groups in their customer bases, and then use this knowledge to develop targeted    marketing programs
