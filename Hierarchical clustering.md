@@ -12,7 +12,7 @@ In data mining and statistics, hierarchical clustering (likewise called various 
   - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
 - [Discussion](#discussion)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
-- [Landmark research papers in the topic](#Landmark-research-papers)
+- [Landmark research papers in the topic](#landmark-research-papers)
 - [Resources such as book, code, relevant softwares, libraries, other tutorials,links to video lectures etc](#resources)
 - [References](#references)
 
