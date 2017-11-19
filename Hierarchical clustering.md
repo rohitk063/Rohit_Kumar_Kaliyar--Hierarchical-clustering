@@ -162,7 +162,8 @@ The initial cluster distances in Ward's minimum variance method are therefore de
 
 -•Agglomerative hierarchical clustering algorithms are expensive in terms of their computational and storage requirements.
 
--•Merges are final and cannot be undone at a later time, preventing global optimization and causing trouble for noisy, high
+-•Merges are final and cannot be undone at a later time, preventing global optimization and causing trouble for noisy, high.
+- [Why hierarchical clustering?](https://www.coursera.org/learn/ml-clustering-and-retrieval/lecture/P4kkl/why-hierarchical-clustering)
 
 ## Landmark research papers
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
