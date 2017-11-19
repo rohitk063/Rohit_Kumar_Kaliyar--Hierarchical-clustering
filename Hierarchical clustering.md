@@ -75,7 +75,7 @@ Divisive Hierarchical clustering - It is just the reverse of Agglomerative Hiera
   3. In average-linkage clustering, we consider the distance between one cluster and another cluster to be equal to the average distance from any member of one cluster to any member of the other cluster.
  
 A variation on average-link clustering is the UCLUS method of R. D'Andrade (1978) which uses the median distance, which is much more outlier-proof than the average distance.
-#### Single-Linkage Clustering: The Algorithm
+#### Single-Linkage Clustering: Algorithm
 Let’s now take a deeper look at how Johnson’s algorithm works in the case of single-linkage clustering.
 The algorithm is an agglomerative scheme that erases rows and columns in the proximity matrix as old clusters are merged into new ones.
 
@@ -95,7 +95,10 @@ The algorithm is composed of the following steps:
 
     d[(k), (r,s)] = min d[(k),(r)], d[(k),(s)]
     If all objects are in one cluster, stop. Else, go to step 2.
-
+#### Complete Linkage
+In complete linkage hierarchical clustering, the distance between two clusters is defined as the longest distance between two points in each cluster. For example, the distance between clusters “r” and “s” to the left is equal to the length of the arrow between their two furthest points.
+#### Average Linkage
+In average linkage hierarchical clustering, the distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster. For example, the distance between clusters “r” and “s” to the left is equal to the average length each arrow between connecting the points of one cluster to the other.
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
