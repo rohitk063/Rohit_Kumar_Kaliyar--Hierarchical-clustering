@@ -99,6 +99,8 @@ The algorithm is composed of the following steps:
 In complete linkage hierarchical clustering, the distance between two clusters is defined as the longest distance between two points in each cluster. For example, the distance between clusters “r” and “s” to the left is equal to the length of the arrow between their two furthest points.
 #### Average Linkage
 In average linkage hierarchical clustering, the distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster. For example, the distance between clusters “r” and “s” to the left is equal to the average length each arrow between connecting the points of one cluster to the other.
+#### Wards method
+
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
@@ -118,6 +120,10 @@ In average linkage hierarchical clustering, the distance between two clusters is
 - [Climate](https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf) - understanding earth climate, find patterns of atmospheric and ocean.
 - [Economic Science](https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -market resarch
 ## Discussion
+-Useful if the underlying application has a taxonomy.
+-Agglomerative hierarchical clustering algorithms are expensive in terms of their computational and storage requirements.
+-Merges are final and cannot be undone at a later time, preventing global optimization and causing trouble for noisy, high
+ dimensional data.
 ## Landmark research papers
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
 - [Chameleon: Hierarchical clustering using dynamic modeling](http://ieeexplore.ieee.org/abstract/document/781637/). Chameleon: Hierarchical clustering using dynamic modeling. Computer, 32(8), 68-75.
