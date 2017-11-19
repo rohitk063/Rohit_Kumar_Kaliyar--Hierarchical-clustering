@@ -76,12 +76,12 @@ These instructions will get you a copy of the project up and running on your loc
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning. 
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
-[1] Hierarchical Clustering by Songül Albayrak (Yıldız Technical University)
-[2] Data Mining: Concepts and Techniques by Jiawei Han, Micheline Kamber, and Jian Pei
-[3] Clustering by Kamal Nigam (http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html)
-[4]  Cluster Analysis by MktRes-MARK
-[5] Clustering by Jing Gao  and SUNY Buffalo 
-[6] Hierarchical Clustering by Ke Chen
+-[1] Hierarchical Clustering by Songül Albayrak (Yıldız Technical University)
+-[2] Data Mining: Concepts and Techniques by Jiawei Han, Micheline Kamber, and Jian Pei
+-[3] Clustering by Kamal Nigam (http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html)
+-[4]  Cluster Analysis by MktRes-MARK
+-[5] Clustering by Jing Gao  and SUNY Buffalo 
+-[6] Hierarchical Clustering by Ke Chen
 
 
 ```
