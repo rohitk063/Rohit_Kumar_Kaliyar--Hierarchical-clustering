@@ -54,6 +54,23 @@ Agglomerative Hierarchical clustering -This algorithm  works by  grouping  the d
  5) ward's method - sum of squared euclidean distance is minimized.
 
 This way we go on grouping the data until one cluster is formed. Now on the basis of dendogram graph we can calculate how many number of clusters should be actually present.
+Algorithmic steps for Agglomerative Hierarchical clustering
+
+Let  X = {x1, x2, x3, ..., xn} be the set of data points.
+
+1) Begin with the disjoint clustering having level L(0) = 0 and sequence number m = 0.
+
+2) Find the least distance pair of clusters in the current clustering, say pair (r), (s), according to d[(r),(s)] = min d[(i),(j)]   where the minimum is over all pairs of clusters in the current clustering.
+
+3) Increment the sequence number: m = m +1.Merge clusters (r) and (s) into a single cluster to form the next clustering   m. Set the level of this clustering to L(m) = d[(r),(s)].
+
+
+4) Update the distance matrix, D, by deleting the rows and columns corresponding to clusters (r) and (s) and adding a row and column corresponding to the newly formed cluster. The distance between the new cluster, denoted (r,s) and old cluster(k) is defined in this way: d[(k), (r,s)] = min (d[(k),(r)], d[(k),(s)]).
+
+
+5) If all the data points are in one cluster then stop, else repeat from step 2).
+
+Divisive Hierarchical clustering - It is just the reverse of Agglomerative Hierarchical approach.
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
