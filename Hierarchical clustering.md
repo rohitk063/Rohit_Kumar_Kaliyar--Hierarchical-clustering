@@ -138,8 +138,7 @@ The initial cluster distances in Ward's minimum variance method are therefore de
      
 -They may correspond to meaningful taxonomies 
      –e.g., shopping websites—electronics (computer, camera, ..), furniture, groceries 
-
-
+     
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
