@@ -35,6 +35,13 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 ## Algorithms
 
 ## Examples
+- [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
+- [GitHub - lbehnke/hierarchical-clustering-java: Implementation](https://github.com/lbehnke/hierarchical-clustering-java) - Implementation of an agglomerative hierarchical clustering algorithm in Java. Different linkage approaches are supported.
+- [SciPy Hierarchical Clustering and Dendrogram Tutorial](https://joernhees.de/blog/2015/.../scipy-hierarchical-clustering-and-dendrogram-tutori...) - This is a tutorial on how to use scipy's hierarchical clustering. ... X samples (n x m array), aka data points or "singleton clusters"; n number of ...... This entry was posted in Coding and tagged clustering, code, dendrogram...
+- [Hierarchical Clustering Python Implementation - GitHub](https://github.com/ZwEin27/Hierarchical-Clustering) -Hierarchical Clustering Python Implementation. ... For example, to produce two clusters, the algorithm can simply return the last two clusters that were merged ...
+- [Data Science: Performing Hierarchical Clustering with Python](www.dummies.com/programming/.../data-science-performing-hierarchical-clustering-) - Scikit-learn implementation of agglomerative clustering does not offer the possibility of ... fine with only a few cases, whereas you can expect to work on many examples.
+- [Python Math: Calculate clusters using Hierarchical Clustering method](https://www.w3resource.com/python-exercises/math/python-math-exercise-75.php) - a Python program to calculate clusters using Hierarchical Clustering method
+
 ## Applications
 - [Biology](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - taxonomy of living things: kingdom, phylum, class, order, family, genus and species
 - [Information retrieval](ramet.elte.hu/~podani/5-Hierarchical%20clustering.pdf) - document clustering
