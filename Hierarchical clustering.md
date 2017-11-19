@@ -67,6 +67,11 @@ Let  X = {x1, x2, x3, ..., xn} be the set of data points.
 5) If all the data points are in one cluster then stop, else repeat from step 2).
 
 Divisive Hierarchical clustering - It is just the reverse of Agglomerative Hierarchical approach.
+### Various linkage algorithms
+In single-linkage clustering (also called the connectedness or minimum method), we consider the distance between one cluster and another cluster to be equal to the shortest distance from any member of one cluster to any member of the other cluster. If the data consist of similarities, we consider the similarity between one cluster and another cluster to be equal to the greatest similarity from any member of one cluster to any member of the other cluster.
+In complete-linkage clustering (also called the diameter or maximum method), we consider the distance between one cluster and another cluster to be equal to the greatest distance from any member of one cluster to any member of the other cluster.
+In average-linkage clustering, we consider the distance between one cluster and another cluster to be equal to the average distance from any member of one cluster to any member of the other cluster.
+A variation on average-link clustering is the UCLUS method of R. D'Andrade (1978) which uses the median distance, which is much more outlier-proof than the average distance.
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
