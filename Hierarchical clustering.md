@@ -31,12 +31,15 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 Partitioning approach: 
  -Construct various partitions and then evaluate them by some criterion, e.g., minimizing the sum of square errors
  -Methods: k-means, k-medoids, CLARANS
+ 
 Hierarchical approach: 
  -Create a hierarchical decomposition of the set of data (or objects) using some criterion
  -Methods : Diana, Agnes, BIRCH, CAMELEON
+ 
 Density-based approach: 
  -Based on connectivity and density functions
  -Methods : DBSACN, OPTICS, DenClue
+ 
 Grid-based approach: 
  -based on a multiple-level granularity structure
  -Methods : STING, WaveCluster, CLIQUE
