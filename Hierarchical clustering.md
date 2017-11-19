@@ -107,11 +107,13 @@ The initial cluster distances in Ward's minimum variance method are therefore de
     d i j = d ( { X i } , { X j } ) = ∥ X i − X j ∥ 2 
 
 #### Problems and Limitations 
-Once a decision is made to combine two clusters, it cannot be undone 
-Different schemes have problems with one or more of the following: 
-     –Sensitivity to noise and outliers 
-     –Difficulty handling different sized clusters and irregular shapes 
-     –Breaking large clusters 
+-Once a decision is made to combine two clusters, it cannot be undone 
+
+-Different schemes have problems with one or more of the following: 
+
+     1.Sensitivity to noise and outliers 
+     2.Difficulty handling different sized clusters and irregular shapes 
+     3.Breaking large clusters 
 
 
 
