@@ -36,10 +36,10 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 
 ## Examples
 ## Applications
--Biology: taxonomy of living things: kingdom, phylum, class, order, family, genus and species
--Information retrieval: document clustering
--Land use: Identification of areas of similar land use in an earth observation database
--Marketing: Help marketers discover distinct groups in their customer bases, and then use this knowledge to develop targeted    marketing programs
+-[Biology:] -taxonomy of living things: kingdom, phylum, class, order, family, genus and species
+-[Information retrieval]: -document clustering
+-[Land use]: -Identification of areas of similar land use in an earth observation database
+-[Marketing:] -Help marketers discover distinct groups in their customer bases, and then use this knowledge to develop targeted    marketing programs
 -City-planning: Identifying groups of houses according to their house type, value, and geographical location
 -Earth-quake studies: Observed earth quake epicenters should be clustered along continent faults
 -Climate: understanding earth climate, find patterns of atmospheric and ocean
