@@ -100,6 +100,13 @@ In complete linkage hierarchical clustering, the distance between two clusters i
 #### Average Linkage
 In average linkage hierarchical clustering, the distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster. For example, the distance between clusters “r” and “s” to the left is equal to the average length each arrow between connecting the points of one cluster to the other.
 #### Wards method
+Ward's minimum variance criterion minimizes the total within-cluster variance. To implement this method, at each step find the pair of clusters that leads to minimum increase in total within-cluster variance after merging. This increase is a weighted squared distance between cluster centers. At the initial step, all clusters are singletons (clusters containing a single point). To apply a recursive algorithm under this objective function, the initial distance between individual objects must be (proportional to) squared Euclidean distance.
+
+The initial cluster distances in Ward's minimum variance method are therefore defined to be the squared Euclidean distance between points:
+
+    d i j = d ( { X i } , { X j } ) = ∥ X i − X j ∥ 2 . {\displaystyle d_{ij}=d(\{X_{i}\},\{X_{j}\})={\|X_{i}-X_{j}\|^{2}}.} d_{{ij}}=d(\{X_{i}\},\{X_{j}\})={\|X_{i}-X_{j}\|^{2}}.
+
+Note: In software that implements Ward's method, it is important to check whether the function arguments should specify Euclidean distances or squared Euclidean distances.
 
 
 ## Examples
