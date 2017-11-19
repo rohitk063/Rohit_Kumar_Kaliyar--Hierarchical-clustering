@@ -80,6 +80,22 @@ Let’s now take a deeper look at how Johnson’s algorithm works in the case of
 The algorithm is an agglomerative scheme that erases rows and columns in the proximity matrix as old clusters are merged into new ones.
 
 The N*N proximity matrix is D = [d(i,j)]. The clusterings are assigned sequence numbers 0,1,......, (n-1) and L(k) is the level of the kth clustering. A cluster with sequence number m is denoted (m) and the proximity between clusters (r) and (s) is denoted d [(r),(s)]. 
+The algorithm is composed of the following steps:
+
+    Begin with the disjoint clustering having level L(0) = 0 and sequence number m = 0.
+    Find the least dissimilar pair of clusters in the current clustering, say pair (r), (s), according to
+
+    d[(r),(s)] = min d[(i),(j)]
+
+    where the minimum is over all pairs of clusters in the current clustering.
+    Increment the sequence number : m = m +1. Merge clusters (r) and (s) into a single cluster to form the next clustering m. Set the level of this clustering to
+
+    L(m) = d[(r),(s)]
+    Update the proximity matrix, D, by deleting the rows and columns corresponding to clusters (r) and (s) and adding a row and column corresponding to the newly formed cluster. The proximity between the new cluster, denoted (r,s) and old cluster (k) is defined in this way:
+
+    d[(k), (r,s)] = min d[(k),(r)], d[(k),(s)]
+    If all objects are in one cluster, stop. Else, go to step 2.
+
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
