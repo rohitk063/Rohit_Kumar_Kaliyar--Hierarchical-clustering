@@ -61,6 +61,7 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 - [ A survey of recent advances in hierarchical clustering algorithms](https://academic.oup.com/comjnl/article/26/4/354/377434)Murtagh, Fionn. "A survey of recent advances in hierarchical clustering algorithms." The Computer Journal 26.4 (1983): 354-359.
 
 ## Resources
+### Softwares
 
 [[File:Iris dendrogram.png|thumb|Hierarchical clustering [[dendrogram]] of the [[Iris flower data set|Iris dataset]] (using [[R (programming language)|R]]). [https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html Source] ]]
 
@@ -73,7 +74,7 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 * [[R (programming language)|R]] has several functions for hierarchical clustering: see [https://cran.r-project.org/web/views/Cluster.html CRAN Task View: Cluster Analysis & Finite Mixture Models] for more information.
 * [[SCaViS]] computing environment in Java that implements this algorithm.
 * [[scikit-learn]] implements a hierarchical clustering in Python.
-* [[Weka (machine learning)|Weka]] includes hierarchical cluster analysis.
+-[Weka (machine learning)|Weka] includes hierarchical cluster analysis.
 ### Books
 
 - [Hierarchical clustering - Stanford NLP Group](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - This chapter first introduces agglomerative hierarchical clustering (Section 17.1) ... erences to soft hierarchical clustering.
