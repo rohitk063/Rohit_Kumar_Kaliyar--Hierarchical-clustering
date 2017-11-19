@@ -68,11 +68,11 @@ Let  X = {x1, x2, x3, ..., xn} be the set of data points.
 
 Divisive Hierarchical clustering - It is just the reverse of Agglomerative Hierarchical approach.
 ### Various linkage algorithms
-  1. In single-linkage clustering (also called the connectedness or minimum method), we consider the distance between one cluster and another cluster to be equal to the shortest distance from any member of one cluster to any member of the other cluster. If the data consist of similarities, we consider the similarity between one cluster and another cluster to be equal to the greatest similarity from any member of one cluster to any member of the other cluster.
+  1. In single-linkage clustering (additionally called the connected-ness between two selected points or least strategy), we consider the separation or distance between one cluster and with the another cluster to be equivalent to the most short distance from any individual from one cluster to any individual from the other cluster. On the off chance that the data comprise of likenesses or similarities, we consider the comparability between one cluster and another cluster to be equivalent to the best closeness from any individual from one cluster to any individual from the other cluster..
  
-  2. In complete-linkage clustering (also called the diameter or maximum method), we consider the distance between one cluster and another cluster to be equal to the greatest distance from any member of one cluster to any member of the other cluster.
- 
-  3. In average-linkage clustering, we consider the distance between one cluster and another cluster to be equal to the average distance from any member of one cluster to any member of the other cluster.
+2. In complete-linkage clustering (likewise called the diameter or most extreme strategy), we consider the distance between one cluster and another cluster to be equivalent to the greatest distance or largest distance from any individual from one cluster to any individual from the other cluster. 
+
+3. In normal linkage clustering , we consider the separation between one cluster and another cluster to be equivalent to the average distance from any individual from one cluster to any individual from the other cluster.
  
 A variation on average-link clustering is the UCLUS method of R. D'Andrade (1978) which uses the median distance, which is much more outlier-proof than the average distance.
 #### Single-Linkage Clustering: Algorithm
