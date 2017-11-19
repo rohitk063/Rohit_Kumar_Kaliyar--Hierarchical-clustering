@@ -58,7 +58,7 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 - [Hierarchical clustering - Stanford NLP Group](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - This chapter first introduces agglomerative hierarchical clustering (Section 17.1) ... erences to soft hierarchical clustering.
 - [Hierarchical clustering](ramet.elte.hu/~podani/5-Hierarchical%20clustering.pdf) - In this book, we are not concerned with such arrangements any lon- ger, and emphasis .... The process of hierarchical clustering can follow two basic strategies
 - [Algorithms For Clustering Data](https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf) - structure either as a grouping of individuals or as a hierarchy of groups. The ... The book emphasizes informal algorithms for clustering data, and interpreting .
-- [Cluster Analysis: Basic Concepts and Algorithms]https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -agglomerative hierarchical clustering, and DBSCAN. The final section ... In addition, the bibliographic notes provide references to relevant books and papers that.
+- [Cluster Analysis: Basic Concepts and Algorithms](https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -agglomerative hierarchical clustering, and DBSCAN. The final section ... In addition, the bibliographic notes provide references to relevant books and papers that.
 ### Code
 
 - [Hierarchical Clustering - MATLAB & Simulink](https://in.mathworks.com/help/stats/hierarchical-clustering-12.html?s_tid=gn_loc_drop) - Hierarchical clustering groups data into a multilevel cluster tree or dendrogram. If your data is hierarchical, this technique can help you choose the level of clustering that is most appropriate for your application.
@@ -84,7 +84,6 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf) - Interesting overview of the subject of NMT, I mostly read part 8 about RNNs with attention as a refresher.
 - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf) - That yields intuition about the boundaries of what works for doing NMT within a framed seq2seq problem formulation.
 
-## Books
 
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
 - [Chameleon: Hierarchical clustering using dynamic modeling](http://ieeexplore.ieee.org/abstract/document/781637/). Chameleon: Hierarchical clustering using dynamic modeling. Computer, 32(8), 68-75.
