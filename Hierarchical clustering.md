@@ -114,6 +114,13 @@ The initial cluster distances in Ward's minimum variance method are therefore de
      1.Sensitivity to noise and outliers 
      2.Difficulty handling different sized clusters and irregular shapes 
      3.Breaking large clusters 
+#### Strengths
+
+-Do not have to assume any particular number of clusters 
+     –Any desired number of clusters can be obtained by ‘cutting’ the dendrogram at the proper level 
+     
+-They may correspond to meaningful taxonomies 
+     –e.g., shopping websites—electronics (computer, camera, ..), furniture, groceries 
 
 
 
