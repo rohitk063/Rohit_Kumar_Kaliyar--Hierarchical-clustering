@@ -104,9 +104,8 @@ Ward's minimum variance criterion minimizes the total within-cluster variance. T
 
 The initial cluster distances in Ward's minimum variance method are therefore defined to be the squared Euclidean distance between points:
 
-    d i j = d ( { X i } , { X j } ) = ∥ X i − X j ∥ 2 . {\displaystyle d_{ij}=d(\{X_{i}\},\{X_{j}\})={\|X_{i}-X_{j}\|^{2}}.} d_{{ij}}=d(\{X_{i}\},\{X_{j}\})={\|X_{i}-X_{j}\|^{2}}.
+    d i j = d ( { X i } , { X j } ) = ∥ X i − X j ∥ 2 
 
-Note: In software that implements Ward's method, it is important to check whether the function arguments should specify Euclidean distances or squared Euclidean distances.
 
 
 ## Examples
