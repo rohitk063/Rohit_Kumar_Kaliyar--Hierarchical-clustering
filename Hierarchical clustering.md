@@ -75,8 +75,7 @@ Divisive Hierarchical clustering - It is just the reverse of Agglomerative Hiera
  
 A variation on average-link clustering is the UCLUS method of R. D'Andrade (1978) which uses the median distance, which is much more outlier-proof than the average distance.
 #### Single-Linkage Clustering: Algorithm
-Let’s now take a deeper look at how Johnson’s algorithm works in the case of single-linkage clustering.
-The algorithm is an agglomerative scheme that erases rows and columns in the proximity matrix as old clusters are merged into new ones.
+How about we now investigate how Johnson's algorithm functions on account of single-linkage clustering. The algorithm consist an agglomerative scheme that deletes rows and columns in the proximity matrix  made after few steps as old clusters are converged into new ones.
 
 The N*N proximity matrix is D = [d(i,j)]. The clusterings are assigned sequence numbers 0,1,......, (n-1) and L(k) is the level of the kth clustering. A cluster with sequence number m is denoted (m) and the proximity between clusters (r) and (s) is denoted d [(r),(s)]. 
 The algorithm is composed of the following steps:
