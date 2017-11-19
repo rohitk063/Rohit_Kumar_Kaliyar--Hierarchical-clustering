@@ -34,14 +34,13 @@ Clustering  is the current active subject of dynamic research in a few fields, f
    Scenarios of hierarchical matter clustering are defined in terms of rules that determine how dark halos evolve from scale to scale. Measuring correlations of structures at different scales is a direct and sensitive way to test the hypothesis of hierarchical clustering. We propose to detect this hierarchical structure by studying correlations between coefficients of a wavelet decomposition of the density field ρ(x). We suggest relevant measures to quantify such scale-scale correlations and to discriminate between different scenarios. Scale-scale correlation measures have been shown to effectively reveal hierarchical characteristics of energy transfer in turbulence and multiparticle physics (Yamada & Ohkitani 1991; Greiner, Lipa, & Carruthers 1995).
 
 ## Algorithms
-Hierarchical clustering algorithm is of two types:
+We can divied or classified the Hierarchical clustering algorithms into types: 
 
- i) Agglomerative Hierarchical clustering algorithm or AGNES (agglomerative nesting) and
+1. Agglomerative Hierarchical clustering algorithm or AGNES 
 
- ii) Divisive Hierarchical clustering algorithm or DIANA (divisive analysis).
+2.  Divisive Hierarchical clustering algorithm or DIANA (divisive analysis). 
 
-Both this algorithm are exactly reverse of each other. So we will be covering Agglomerative Hierarchical clustering algorithm in detail.
-Agglomerative Hierarchical clustering -This algorithm  works by  grouping  the data one by one on the basis of the  nearest distance measure of all the pairwise distance between the data point. Again distance between the data point is recalculated but which distance to consider when the groups has been formed? For this there are many available methods. Some of them are:
+Both these algorithms are precisely reverse of each other. So we will cover Agglomerative Hierarchical clustering algorithm in detail manner. Agglomerative Hierarchical clustering- This calculation works by grouping the data one by one on the premise of the closest separation or distance measure of all the pairwise between the data point. Again to find the distance between the information point or data point is recalculated however which separation to consider when the gatherings or grouping has been framed? For this there are numerous accessible techniques. Some of them are:
 
  1) single-nearest distance or single linkage.
 
