@@ -38,6 +38,7 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 ## Applications
 ## Discussion
 ## Landmark research papers in the topic
+- [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
 ## Resources
 ### Books
 
