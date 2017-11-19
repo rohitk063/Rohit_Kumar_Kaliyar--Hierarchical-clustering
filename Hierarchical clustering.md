@@ -5,8 +5,8 @@ In data mining and statistics, hierarchical clustering (likewise called various 
 - [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Evolution of the approach with related work](#evolution)
-- [Algorithm with mathematical notations and diagrams](#algorithm with mathematical notations and diagrams)
-- [Example problem with the solution](#examples problem with the solution)
+- [Algorithm with mathematical notations and diagrams](#algorithms)
+- [Example problem with the solution](#examples)
   - [Librairies and Implementations](#librairies-and-implementations)
 - [Applications](#applications)
   - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
@@ -32,9 +32,9 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 
 ## Evolution
 
-## Algorithm with mathematical notations and diagrams
+## Algorithms
 
-## Example problem with the solution
+## Examples
 ## Applications
 ## Discussion
 ## Landmark research papers in the topic
