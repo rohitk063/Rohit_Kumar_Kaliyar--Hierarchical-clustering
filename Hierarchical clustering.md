@@ -154,6 +154,7 @@ The initial cluster distances in Ward's minimum variance method are therefore de
 - [SciPy Hierarchical Clustering and Dendrogram Tutorial](https://joernhees.de/blog/2015/.../scipy-hierarchical-clustering-and-dendrogram-tutori...) - This is a tutorial on how to use scipy's hierarchical clustering. ... X samples (n x m array), aka data points or "singleton clusters"; n number of ...... This entry was posted in Coding and tagged clustering, code, dendrogram...
 - [Hierarchical Clustering Python Implementation - GitHub](https://github.com/ZwEin27/Hierarchical-Clustering) -Hierarchical Clustering Python Implementation. ... For example, to produce two clusters, the algorithm can simply return the last two clusters that were merged ...
 ### Softwares
+- [Open source Clustering software](bonsai.hgc.jp/~mdehoon/software/cluster/software.html) -The open source clustering software available here implement the most ... Java TreeView, which can display hierarchical as well as k-means clustering results.
 
 [File:Iris dendrogram.png|thumb|Hierarchical clustering [dendrogram]] of the [Iris flower data set|Iris dataset] (using [R (programming language)|R]). [https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html Source]
 
