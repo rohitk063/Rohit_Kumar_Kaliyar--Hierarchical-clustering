@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Discussion
 ## Landmark research papers in the topic
 ## Resources
-# Books
+### Books
 
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - The audio version is nice to listen to while commuting. This book is motivating about reverse-engineering the mind and thinking on how to code AI.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning. 
