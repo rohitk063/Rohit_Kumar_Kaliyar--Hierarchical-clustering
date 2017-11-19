@@ -121,7 +121,9 @@ In average linkage hierarchical clustering, the distance between two clusters is
 - [Economic Science](https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -market resarch
 ## Discussion
 -•Useful if the underlying application has a taxonomy.
+
 -•Agglomerative hierarchical clustering algorithms are expensive in terms of their computational and storage requirements.
+
 -•Merges are final and cannot be undone at a later time, preventing global optimization and causing trouble for noisy, high
 
 ## Landmark research papers
