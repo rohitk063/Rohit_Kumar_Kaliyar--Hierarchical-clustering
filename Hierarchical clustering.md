@@ -182,8 +182,4 @@ The initial cluster distances in Ward's minimum variance method are therefore de
 - Hierarchical Clustering by Ke Chen
 
 
-```
-Give examples
-```
-
 
