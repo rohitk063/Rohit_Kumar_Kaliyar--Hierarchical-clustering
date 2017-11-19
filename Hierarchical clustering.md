@@ -18,7 +18,6 @@ Clustering  is the current active subject of dynamic research in a few fields, f
   - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
 - [Discussion](#discussion)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
-  - [Convolutional Neural Networks](#convolutional-neural-networks)
 - [Landmark research papers in the topic](#landmark)
 - [Resources such as book, code, relevant softwares, libraries, other tutorials,links to video lectures etc](#resources)
 - [References](#references)
