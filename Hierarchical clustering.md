@@ -34,6 +34,13 @@ Clustering  is the current active subject of dynamic research in a few fields, f
    Scenarios of hierarchical matter clustering are defined in terms of rules that determine how dark halos evolve from scale to scale. Measuring correlations of structures at different scales is a direct and sensitive way to test the hypothesis of hierarchical clustering. We propose to detect this hierarchical structure by studying correlations between coefficients of a wavelet decomposition of the density field ρ(x). We suggest relevant measures to quantify such scale-scale correlations and to discriminate between different scenarios. Scale-scale correlation measures have been shown to effectively reveal hierarchical characteristics of energy transfer in turbulence and multiparticle physics (Yamada & Ohkitani 1991; Greiner, Lipa, & Carruthers 1995).
 
 ## Algorithms
+-Hierarchical clustering algorithm is of two types:
+
+ i) Agglomerative Hierarchical clustering algorithm or AGNES (agglomerative nesting) and
+
+ ii) Divisive Hierarchical clustering algorithm or DIANA (divisive analysis).
+
+Both this algorithm are exactly reverse of each other. So we will be covering Agglomerative Hierarchical clustering algorithm in detail.
 
 ## Examples
 - [GitHub - gyaikhom/agglomerative-hierarchical-clustering: Implements](https://github.com/gyaikhom/agglomerative-hierarchical-clustering) - In this example, we are running the hierarchical agglomerative clustering on the items in the input file example.txt . We are asking the program to generate 3 disjointed clusters using the single-linkage distance metric
