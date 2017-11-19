@@ -30,6 +30,8 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 
 ## Evolution
  The recent discoveries of an excess of faint blue galactic counts (Lilly et al. 1995; Ellis et al. 1996) and a substantial population of star-forming galaxies at redshift z &sime; 3–3.5 (Steidel et al. 1996) may be taken as evidence of hierarchical structure formation (Kauffmann & White 1993; Lacey & Cole 1993; Navarro, Frenk, & White 1996). However, the predicted abundance of galaxies at higher redshifts depends on, at the very least, models of stellar population synthesis and the initial mass function (IMF). Besides these abundances, a more direct and independent detection of hierarchical evolution is necessary to form a convincing argument for this scenario as well as to discriminate between different models of structure formation.
+ 
+   Scenarios of hierarchical matter clustering are defined in terms of rules that determine how dark halos evolve from scale to scale. Measuring correlations of structures at different scales is a direct and sensitive way to test the hypothesis of hierarchical clustering. We propose to detect this hierarchical structure by studying correlations between coefficients of a wavelet decomposition of the density field ρ(x). We suggest relevant measures to quantify such scale-scale correlations and to discriminate between different scenarios. Scale-scale correlation measures have been shown to effectively reveal hierarchical characteristics of energy transfer in turbulence and multiparticle physics (Yamada & Ohkitani 1991; Greiner, Lipa, & Carruthers 1995).
 
 ## Algorithms
 
