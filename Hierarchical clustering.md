@@ -4,6 +4,7 @@ In data mining and statistics, hierarchical clustering (likewise called various 
 ## Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
+  - [Clustering](#Clustering)
 - [Evolution of the approach with related work](#evolution)
 - [Algorithm with mathematical notations and diagrams](#algorithms)
 - [Example problem with the solution](#examples)
