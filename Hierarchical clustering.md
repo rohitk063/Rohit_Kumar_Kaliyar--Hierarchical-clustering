@@ -44,7 +44,14 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 -Earth-quake studies: Observed earth quake epicenters should be clustered along continent faults
 -Climate: understanding earth climate, find patterns of atmospheric and ocean
 -Economic Science: market resarch
-
+- [Biology](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - taxonomy of living things: kingdom, phylum, class, order, family, genus and species
+- [Information retrieval](ramet.elte.hu/~podani/5-Hierarchical%20clustering.pdf) - document clustering
+- [Land use](https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf) - Identification of areas of similar land use in an earth observation database.
+- [Marketing](https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -Help marketers discover distinct groups in their customer bases, and then use this knowledge to develop targeted    marketing programs
+- [City planning](https://nlp.stanford.edu/IR-book/pdf/17hier.pdf) - Identifying groups of houses according to their house type, value, and geographical location.
+- [Earth-quake studies](ramet.elte.hu/~podani/5-Hierarchical%20clustering.pdf) - Observed earth quake epicenters should be clustered along continent faults
+- [Climate](https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf) - understanding earth climate, find patterns of atmospheric and ocean.
+- [Economic Science](https://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -market resarch
 ## Discussion
 ## Landmark research papers
 - [Hierarchical clustering schemes](https://link.springer.com/article/10.1007%2FBF02289588?LI=true) - Johnson, Stephen C. "Hierarchical clustering schemes." Psychometrika 32, no. 3 (1967): 241-254.
