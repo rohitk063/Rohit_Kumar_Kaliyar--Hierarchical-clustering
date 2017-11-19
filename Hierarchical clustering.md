@@ -9,7 +9,6 @@ Clustering  is the current active subject of dynamic research in a few fields, f
 
 ## Contents
 - [Abstract](#abstract)
-Hierarchical clustering constructs a cluster hierarchy in the form of a tree like structure or, a tree of clusters,which is known as a dendrogram . Each cluster node contains child clusters; kin clusters partition the points secured by their normal parent. Such an approach permits investigating data on various levels of granularity. Hierarchical clustering strategies are classified into agglomerative (botto-up) and divisive [Jain& Dubes 1988;Kaufman& Rousseeuw 1990]. If we describe agglomerative clustering that starts with with one-point clusters and recursively blends at least two most fitting clusters . If we talk about divisive clustering which  starts with one cluster of all information focuses and recursively split the most fitting cluster.
 - [Introduction](#introduction)
 - [Evolution of the approach with related work](#evolution)
 - [Algorithm with mathematical notations and diagrams](#algorithm)
@@ -26,6 +25,8 @@ Hierarchical clustering constructs a cluster hierarchy in the form of a tree lik
 <a name="trends" />
 
 ## Abstract
+Hierarchical clustering constructs a cluster hierarchy in the form of a tree like structure or, a tree of clusters,which is known as a dendrogram . Each cluster node contains child clusters; kin clusters partition the points secured by their normal parent. Such an approach permits investigating data on various levels of granularity. Hierarchical clustering strategies are classified into agglomerative (botto-up) and divisive [Jain& Dubes 1988;Kaufman& Rousseeuw 1990]. If we describe agglomerative clustering that starts with with one-point clusters and recursively blends at least two most fitting clusters . If we talk about divisive clustering which  starts with one cluster of all information focuses and recursively split the most fitting cluster.
+So classification procedure of Hierarchical clustering is described in this topic.
 
 ## Introduction
 
