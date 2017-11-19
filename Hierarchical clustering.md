@@ -96,11 +96,12 @@ The algorithm is composed of the following steps:
     d[(k), (r,s)] = min d[(k),(r)], d[(k),(s)]
     If all objects are in one cluster, stop. Else, go to step 2.
 #### Complete Linkage
-In complete linkage hierarchical clustering, the distance between two clusters is defined as the longest distance between two points in each cluster. For example, the distance between clusters “r” and “s” to the left is equal to the length of the arrow between their two furthest points.
+In total linkage hierarchical clustering, the distance between two clusters is characterized as the longest distance between two focuses or points in each cluster. For instance, the separation between clusters"r" and "s" to one side is equivalent to the length of the distance between their two furthest focuses or points.
 #### Average Linkage
-In average linkage hierarchical clustering, the distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster. For example, the distance between clusters “r” and “s” to the left is equal to the average length each arrow between connecting the points of one cluster to the other.
+In average linkage hierarchical clustering, the separation between two defined is characterized as the average distance between each point in one cluster to each point in the other cluster. For instance, the separation between cluster"r" and "s" to one side is equivalent to the average length  between associating points mapping of one cluster to the next.
+
 #### Wards method
-Ward's minimum variance criterion minimizes the total within-cluster variance. To implement this method, at each step find the pair of clusters that leads to minimum increase in total within-cluster variance after merging. This increase is a weighted squared distance between cluster centers. At the initial step, all clusters are singletons (clusters containing a single point). To apply a recursive algorithm under this objective function, the initial distance between individual objects must be (proportional to) squared Euclidean distance.
+Ward's minimum variance basis limits the aggregate inside cluster difference. To execute this strategy, at each progression discover the combine of clusters that prompts least increment altogether inside cluster variance in the wake of blending. This expansion is a weighted squared separation between cluster centers. At the underlying advance, all clusters are singletons (clusters containing a solitary point). To apply a recursive algorithm under this goal work, the initial distance between individual items must be (relative to) squared Euclidean distance.
 
 The initial cluster distances in Ward's minimum variance method are therefore defined to be the squared Euclidean distance between points:
 
